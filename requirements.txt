@@ -1,0 +1,4 @@
+# Stage 0 spikes only. Kept minimal on purpose.
+requests>=2.31      # route_info.py
+pytesseract>=0.3.10 # extract_from_screenshot.py (also needs the tesseract binary)
+Pillow>=10.0        # image loading for OCR
